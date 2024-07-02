@@ -1,4 +1,56 @@
-# TP-2022
-<p align="center">
-  <img src="https://github.com/DylanEdwards02/SU-2023/assets/76750330/3d92914c-850d-4d9f-a883-c009e87bd508">
+<!DOCTYPE html>
+<h1 style="text-align: center; font-size:50px;">
+    <b>Vex Tipping Point | 2021-2022 
+    </b>
+</h1>
+
+<p style="text-align: center; scale:0.9;"> 
+<img src="https://www.vexforum.com/uploads/default/original/3X/f/8/f89f8e741f54d52933e33cad7dd6dbcdaeb7ab14.png">
 </p>
+
+<p style="text-align: justify; font-size:17px;">Spin-Up is a competitive game played on a 12' by 12' field
+<a style="text-align: justify; font-size:17px;" href="https://github.com/DylanEdwards02/TP-2022/blob/main/FieldCAD.zip">(Full Field CAD)</a>
+, featuring two teams, each consisting of two robots. One robot must fit within a 15" by 15" by 15" space, and the other within an 24" by 24" by 24" space. The objective is to score more points than the opposing team within the allotted time: a 45-second autonomous period followed by a 1:15-minute driver-controlled period.</p>
+        
+<p style="text-align: justify; font-size:17px; font-weight:bold;"><b>Scoring System:</b></p>
+        <ul>
+            <li style="text-align: justify; font-size:17px;">Ring Scoring:
+                <ul>
+                    <li>Rings scored in mobile base: 1 point each.</li>
+                    <li>Rings scored on any mobile goal branch: 3 points each.</li>
+                    <li>Rings scored on the neutral high branch: 10 points each.</li>
+                </ul>
+            </li>
+            <li style="text-align: justify; font-size:17px;">Mobile Goal Scoring:
+                <ul>
+                    <li>Any mobile goal within correct alliance scoring zone (home third of field): 20 points.</li>
+                    <li>Any mobile goal within correct alliance scoring zone (home third of field) and elevated on balance platform: 40 points.</li>
+                </ul>
+            </li>
+            <li style="text-align: justify; font-size:17px;">End-of-Match Scoring Objectives:
+                <ul>
+                    <li>Balance the robot on the balance platform: 30 points per robot.
+                    </li>
+                </ul>
+            </li>
+        </ul>
+
+<br>
+<h1 style="text-align: center; font-size:50px;">
+    <b>ILLINI 15" Robot
+    </b>
+</h1>
+<br>
+<!-- NEED TO CHANGE IMAGE -->
+<p style="text-align: center; scale:0.75;">
+<img src="https://cdn.discordapp.com/attachments/332986802703040522/1257544524167647314/FULLBOT_v1.png?ex=6684cb1a&is=6683799a&hm=76c7b100bd4e5e3300d590a8f89aa9adc317bb8d1b765824b116e450f0d8d74f&">
+</p>
+<p style="text-align: justify; font-size:17px; font-weight:bold;"><b>Specs:</b></p>
+    <ul>
+        <li>Drivetrain: 6 Motor, 360 RPM </li>
+        <li>Lift: 2 Motor, 40 RPM</li>
+        <li>Intake: 1 Motor, 600 RPM</li>
+        <li>Back Clamp: 2 Piston, 2" stroke</li>
+        <li>Front Clamp: 1 Piston, 2" stroke</li>
+    </ul>
+</li
