@@ -8,7 +8,7 @@
 <img src="https://www.vexforum.com/uploads/default/original/3X/f/8/f89f8e741f54d52933e33cad7dd6dbcdaeb7ab14.png">
 </p>
 
-<p style="text-align: justify; font-size:17px;">Tipping-Point is a competitive game played on a 12' by 12' field
+<p style="text-align: justify; font-size:17px;">Tipping Point is a competitive game played on a 12' by 12' field
 <a style="text-align: justify; font-size:17px;" href="https://github.com/DylanEdwards02/TP-2022/blob/main/FieldCAD.zip">(Full Field CAD)</a>
 , featuring two teams, each consisting of two robots. One robot must fit within a 15" by 15" by 15" space, and the other within an 24" by 24" by 24" space. The objective is to score more points than the opposing team within the allotted time: a 45-second autonomous period followed by a 1:15-minute driver-controlled period.</p>
         
