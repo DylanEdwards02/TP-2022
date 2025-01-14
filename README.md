@@ -43,7 +43,7 @@
 <br>
 <!-- NEED TO CHANGE IMAGE -->
 <p style="text-align: center; scale:0.75;">
-<img src="FULLBOT_v1.png">
+<img src="Renders/tp bot2.png">
 </p>
 <p style="text-align: justify; font-size:17px; font-weight:bold;"><b>Specs:</b></p>
     <ul>
