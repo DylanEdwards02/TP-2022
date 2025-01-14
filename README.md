@@ -43,7 +43,7 @@
 <br>
 <!-- NEED TO CHANGE IMAGE -->
 <p style="text-align: center; scale:0.75;">
-<img src="https://cdn.discordapp.com/attachments/332986802703040522/1257544524167647314/FULLBOT_v1.png?ex=6684cb1a&is=6683799a&hm=76c7b100bd4e5e3300d590a8f89aa9adc317bb8d1b765824b116e450f0d8d74f&">
+<img src="FULLBOT_v1.png">
 </p>
 <p style="text-align: justify; font-size:17px; font-weight:bold;"><b>Specs:</b></p>
     <ul>
